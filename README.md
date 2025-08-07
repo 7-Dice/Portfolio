@@ -1,5 +1,3 @@
-# Portfolio
-Writing source codes for practice and confirm them.
 <!DOCTYPE html>
 <html lang="ja">
 <head>
